@@ -1,0 +1,16 @@
+body {
+  background: #d6dbdf;
+  box-sizing: border-box;
+  color: #dcdcdc;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
